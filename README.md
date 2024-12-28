@@ -113,7 +113,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Contact
 
-For questions or support, please contact the project team at nurulgofran@gmail.com
+For questions or support, please contact the project team at dbjn.chakraborty@fau.de
 
 ## Links to Resources
 
